@@ -13,7 +13,7 @@ Aadhar masking implementation using Pytesseract, OpenCV, and FastAPI.
 uvicorn main:app --reload
 ```
 
-1. Visit [localhost:8000/docs](http://localhost:8000/docs)  for endpoint docuementation 
+1. Visit [localhost:8000/docs](http://localhost:8000/docs)  for endpoint documentation 
 
 ## Todo
 
