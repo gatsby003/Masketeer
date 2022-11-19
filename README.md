@@ -18,7 +18,7 @@ uvicorn main:app --reload
 ## Todo
 
 - [ ]  Handle edge cases and low-res images
-- [ ]  Add more features such compression , alignment and cropping
-- [ ]  bacup data to a database so clients can access it later
+- [ ]  Add more features such as compression , alignment and cropping
+- [ ]  backup data to a database so clients can access it later
 - [ ]  implement batch processing for large number of cards
 - [ ]  deploy to cloud
