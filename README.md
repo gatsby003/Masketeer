@@ -22,7 +22,3 @@ uvicorn main:app --reload
 - [ ]  bacup data to a database so clients can access it later
 - [ ]  implement batch processing for large number of cards
 - [ ]  deploy to cloud
-
-[https://www.notion.so](https://www.notion.so)
-
-[https://www.notion.so](https://www.notion.so)
