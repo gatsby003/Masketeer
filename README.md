@@ -1,5 +1,3 @@
-# Highly Available Aadhaar Masking Service
-
 # **Masketeer**
 
 Aadhar masking implementation using Pytesseract, OpenCV, and FastAPI.
