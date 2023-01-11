@@ -1,5 +1,5 @@
 opencv-python
 pytesseract
 fastapi
-"uvicorn[standard]"
+uvicorn
 python-multipart
